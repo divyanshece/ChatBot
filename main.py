@@ -1,4 +1,4 @@
-# Ai Chat Bot 
+# Ai Chat Bott
 import os
 import google.generativeai as genai
 
